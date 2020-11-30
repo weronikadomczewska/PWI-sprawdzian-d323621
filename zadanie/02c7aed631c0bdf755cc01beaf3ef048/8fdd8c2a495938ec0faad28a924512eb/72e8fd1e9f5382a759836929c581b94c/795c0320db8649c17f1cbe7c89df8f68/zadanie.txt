@@ -1,0 +1,13 @@
+W pliku users.db znajduje się lista maili wraz z hasłami użytkowników spotify. 
+----------------------------------------------------------
+Zadanie jest proste i składa się z 2 podpunktów:
+1) Trzeba dowiedzieć się jaki jest procentowy stosunek 
+    użytkowników z polski do wszystkich którym wykradziono hasła.
+    Czego można użyć jako Bashowego kalkulatora?
+    
+2) Stworzyć nowy plik o nazwie passwords.txt w którym 
+    znajdą się TYLKO hasła w pliku users. Każde w osobnej linii.
+
+----------------------------------------------------------
+Oczywiście jak w całym sprawdzianie nie zależy mi tylko na wyniku, ale i na poleceniach 
+    terminala których użyliście by go uzyskać
